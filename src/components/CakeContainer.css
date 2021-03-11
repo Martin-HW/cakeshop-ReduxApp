@@ -1,0 +1,11 @@
+.middleButton {
+  margin: 0px 10px;
+}
+
+button {
+  padding: 5px 0px;
+  width: 120px;
+  border-radius: 50px;
+  color: purple;
+  background: white;
+}
